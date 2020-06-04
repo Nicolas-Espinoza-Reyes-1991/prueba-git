@@ -13,14 +13,8 @@
                             {{ session('status') }}
                         </div>
                     @endif
-<<<<<<< HEAD
                     <h1>ahora estas logeado</h1>
-                    <h2>felicitaciones</h2>
-=======
-
-                    ahora estas logeado
-                    <h1>probando cambios</h1>
->>>>>>> develop
+                    <h2>felicitaciones ok</h2>
                 </div>
             </div>
         </div>
