@@ -14,7 +14,7 @@
                         </div>
                     @endif
                     <h1>ahora estas logeado</h1>
-                    <h2>felicitaciones</h2>
+                    <h2>ya no te felicito maldito</h2>
                 </div>
             </div>
         </div>
