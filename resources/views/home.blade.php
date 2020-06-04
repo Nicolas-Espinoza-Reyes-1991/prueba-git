@@ -15,6 +15,7 @@
                     @endif
 
                     ahora estas logeado
+                    <h1>probando cambios</h1>
                 </div>
             </div>
         </div>
