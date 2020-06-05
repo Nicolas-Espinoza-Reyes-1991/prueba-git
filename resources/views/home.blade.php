@@ -13,8 +13,9 @@
                             {{ session('status') }}
                         </div>
                     @endif
-                    <h1>ahora estas logeado</h1>
-                    <h2>felicitaciones ok</h2>
+                    <h1>sddfsfdsdfs</h1>
+                    <h2>ya no te felicito maldito</h2>
+                    <img src="">
                 </div>
             </div>
         </div>
